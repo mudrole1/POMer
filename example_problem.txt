@@ -1,0 +1,5 @@
+20;-g;-h;ADDR/ADDR_WORK/BUC/LIFO;-f;{n,s}LR/{l}MW_add;-l;10000;-f;{n,s}LR/{u}MW_add/{l}MW_add;-l;100000;-f;{n,s,l}LR;-l;200000;-f;{n,s,u}LR/{l}LR;-l;unlimited;-v0;
+0;1000000;/data/phd/Phd/temp_evaluation/domains/ipc2014/tempo-sat/Driverlog/domain.pddl;/data/phd/Phd/temp_evaluation/domains/ipc2014/tempo-sat/Driverlog/separate_problems/p21_1.pddl;
+0;1000000;/data/phd/Phd/temp_evaluation/domains/ipc2014/tempo-sat/Driverlog/domain.pddl;/data/phd/Phd/temp_evaluation/domains/ipc2014/tempo-sat/Driverlog/separate_problems/p21_2.pddl;
+0;1000000;/data/phd/Phd/temp_evaluation/domains/ipc2014/tempo-sat/Driverlog/domain.pddl;/data/phd/Phd/temp_evaluation/domains/ipc2014/tempo-sat/Driverlog/separate_problems/p21_3.pddl;
+
